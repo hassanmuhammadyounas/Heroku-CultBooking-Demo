@@ -1,1 +1,1 @@
-web: gunicorn CultBooking:app --log-file -
+web: python CultBooking.py

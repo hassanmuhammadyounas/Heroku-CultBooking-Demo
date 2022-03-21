@@ -1,0 +1,1 @@
+web: gunicorn CultBooking:app --log-file -
